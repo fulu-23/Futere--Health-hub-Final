@@ -9,6 +9,7 @@ not sure what each career involves,so this platform gives simple and clear infor
 - simple navigation between pages
 - information about different health careers
 - contact and enquiry options
+- improve styling and user experiences
 
 ## Structure
 This website include the following pages
@@ -35,12 +36,22 @@ This website include the following pages
 - Improves content on contact and enquiries pages
 - Update the service page
 - Added more image
+- 24/05/26-29/05/26
+- signifincantly improved visual design and styling
+- add css external file
+- made the website fully responsive
+- expand content service and improve footer
+- better layout and user interface improvement
+- general code cleanup and optimization
+- enhanced footer design and consistency
+- improve typography,colours and overall visual hierachy
 
 
 
 ## Reference
 W3Schools.(n.d)*HTML Tutorial*.W3Schools.Retrieved April 10,2026, from <https://www.w3schools.com/html/default.asp.
 OpenAI.(2025) *ChatGPT*(Version GPT-5)[Large language model]OpenAI.Retrived April 10,2026 from <https://chatgpt.com
+w3Schools. (n.d) *CSS Tutorial*Retrived may 2026, from <https://www.w3schools.com/css
 
  
 
